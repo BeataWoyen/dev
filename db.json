@@ -1,20 +1,24 @@
 {
 	"data": {
 		"velocities": {
-			"pinejournal.test.forum.cue.cloud/tags/births": 3,
-			"pinejournal.test.forum.cue.cloud/opinion/143636-Grande-Our-water-is-in-good-hands-definition-of-%E2%80%9CWaters-of-the-United-States%E2%80%9D-referred-to-as-WOTUS": 0,
-			"pinejournal.test.forum.cue.cloud/?_ptid=%7Bjcx%7DH4sIAAAAAAAAAI2RXW-DIBSG_wvXNQEBBe5s125NWreuRtfdIWJLZtWK_ViW_fepiUua7GLkXJ3nfU7g8AWkyYAAn6uMLGhgcQQmoJZ7HRt9XfbEhS50IO4LuQ4lfXkMOww3r7ZupsGmWqDQQw5PfQ9ChYibKz_F3M9TN9NphvOUcEJoN1jfat0YXSo9jJ6_zR5eQhTGu2R3R-c3rc6tqcohhhj0Xcugtg7sjmspquClrQk-5fhEcW04Y3d-oH5le6iukT7WhWz1kpGZt35MNjCcod44SDsyINrmrCegHbO9_ByROIw2nO-2_QVHFsvGyLLtI-W5KCZAyWMtzb60Y-NirBk4uDh_L5A70-37OtoEWZyskifzsf3PAk09_AhEgrCcCQ4RFVhR4UHFBCEkF2lGddfKu_DZ6ibY67LtnKNU_QPaAghEGcaEQU6_fwDcXuAs_gEAAA": 0,
-			"pinejournal.test.forum.cue.cloud/sports/2018-04-02/Storey-claims-second-gold-at-Worlds-5034.html": 0,
-			"pinejournal.test.forum.cue.cloud/entertainment/2018-04-02/Henry-Cavill-expected-to-attend-Comicon-to-promote-Superman-coming-movies-5086.html": 3,
-			"pinejournal.test.forum.cue.cloud/business/": 0,
-			"pinejournal.test.forum.cue.cloud/business/137064-Nothing-but-good-reviews-for-Nothing-Bundt-Cakes-after-opening-in-West-Fargo": 0,
-			"pinejournal.test.forum.cue.cloud/business/announcements/137067-Forum-wins-59-awards-in-N.D.-newspaper-contest-including-Community-Service": 0,
-			"pinejournal.test.forum.cue.cloud/sports/volleyball/138138-UND-Volleyball": 3,
-			"pinejournal.test.forum.cue.cloud/": 0,
-			"pinejournal.test.forum.cue.cloud/community/137008-ROBIN-HUEBNER-REPORTS-Airline-magazine-puts-eyes-in-the-skies-on-North-Dakota": 0,
-			"pinejournal.test.forum.cue.cloud/business/technology/143575-Facebook-will-now-show-you-exactly-how-it-stalks-you-even-when-youre-not-using-Facebook": 3,
-			"pinejournal.test.forum.cue.cloud/143606-Outlook-for-2020-crop-season-optimistic-but-farmers-indecisive": 3,
-			"pinejournal.test.forum.cue.cloud/news/137668-Minnesotans-to-have-home-field-advantage-at-world-plowing-contest": 0
+			"inforum.test.forum.cue.cloud/sports/": 0,
+			"inforum.test.forum.cue.cloud/news/weather/4985103-Weather-Talk-Old-Farmers-Almanac-forecast-of-a-March-storm-is-of-no-concern": 3,
+			"inforum.test.forum.cue.cloud/news/": 0,
+			"inforum.test.forum.cue.cloud/sports/other/4990301-No-spectators-at-Tokyo-2020-Games-torch-lighting-ceremony": 0,
+			"inforum.test.forum.cue.cloud/sports/basketball/4989073-Pelican-Perfection-Unforgettable-section-championship-victory-sends-Vikings-to-state-tournament-unbeaten": 0,
+			"inforum.test.forum.cue.cloud/entertainment/art/4988936-Local-art-teacher-turned-social-media-influencer-reaches-100000-YouTube-subscribers": 0,
+			"inforum.test.forum.cue.cloud/opinion/4986431-Port-City-of-Minot-to-discuss-hiring-outside-counsel-to-investigate-hostile-work-environment-city-employee-described-workplace-like-GESTAPO": 0,
+			"inforum.test.forum.cue.cloud/news/crime-and-courts/4989733-Fargo-Police-notify-public-about-3-high-risk-sex-offenders": 0,
+			"inforum.test.forum.cue.cloud/opinion/letters/4989321-Letter-Preparedness-not-panic-or-hoarding": 0,
+			"inforum.test.forum.cue.cloud/news/weather/": 0,
+			"inforum.test.forum.cue.cloud/": 0,
+			"inforum.test.forum.cue.cloud/lifestyle/family/4985877-Playing-for-this-N.D.-basketball-team-was-a-lesson-in-how-to-lose": 3,
+			"inforum.test.forum.cue.cloud/obituaries/": 0,
+			"inforum.test.forum.cue.cloud/entertainment/radio/4990110-Call-or-email-Jay-Thomas-about-Grand-Forks-residents-experience-on-a-quarantined-cruise-ship": 0,
+			"inforum.test.forum.cue.cloud/entertainment/music/4986257-Concordia-Choir-comes-full-circle-with-new-conductor": 0,
+			"inforum.test.forum.cue.cloud/?_ptid=%7Bjcx%7DH4sIAAAAAAAAAI2RXW-DIBSG_wvXNQEBBe5s125NWreuRtfdIWJLZtWK_ViW_fepiUua7GLkXJ3nfU7g8AWkyYAAn6uMLGhgcQQmoJZ7HRt9XfbEhS50IO4LuQ4lfXkMOww3r7ZupsGmWqDQQw5PfQ9ChYibKz_F3M9TN9NphvOUcEJoN1jfat0YXSo9jJ6_zR5eQhTGu2R3R-c3rc6tqcohhhj0Xcugtg7sjmspquClrQk-5fhEcW04Y3d-oH5le6iukT7WhWz1kpGZt35MNjCcod44SDsyINrmrCegHbO9_ByROIw2nO-2_QVHFsvGyLLtI-W5KCZAyWMtzb60Y-NirBk4uDh_L5A70-37OtoEWZyskifzsf3PAk09_AhEgrCcCQ4RFVhR4UHFBCEkF2lGddfKu_DZ6ibY67LtnKNU_QPaAghEGcaEQU6_fwDcXuAs_gEAAA": 0,
+			"inforum.test.forum.cue.cloud/sports/2018-04-02/Storey-claims-second-gold-at-Worlds-5034.html": 0,
+			"inforum.test.forum.cue.cloud/entertainment/2018-04-02/Henry-Cavill-expected-to-attend-Comicon-to-promote-Superman-coming-movies-5086.html": 3
 
 		}
 	}
